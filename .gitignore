@@ -1,0 +1,9 @@
+*.vpk
+*.zip
+*.7z
+*.rar
+*.blend
+*.blend1
+__pycache__/
+*.pyc
+release_stage/

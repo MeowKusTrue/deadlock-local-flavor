@@ -1,0 +1,5 @@
+Description:
+Cosmetic mods for Deadlock: a fast-food shop, matching menu, Zber ATM, entrance signs and Yandex Go taxis, with separate downloads and optional audio.
+
+Topics:
+deadlock deadlock-mods source2 game-mods cosmetic-mods modding vpk

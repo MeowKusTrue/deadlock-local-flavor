@@ -1,0 +1,25 @@
+name: Ошибка мода / Mod problem
+description: Сообщить о проблеме с одним из модов / Report a problem with a mod
+title: "[Mod] "
+body:
+  - type: input
+    id: archive
+    attributes:
+      label: Название ZIP и версия / Archive name and version
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что произошло / What happened
+      description: Что ожидали, что увидели и как повторить / Expected behavior, actual behavior, steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: others
+    attributes:
+      label: Другие моды и версия игры / Other enabled mods and game update
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты / Screenshots
