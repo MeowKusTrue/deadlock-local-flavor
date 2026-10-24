@@ -1,21 +1,27 @@
-# Совместимость / Compatibility
+# Совместимость
 
-Пути внутри VPK проверены перед выпуском. Между основными группами ниже пересечений нет; это проверка файлов, а не обещание совместимости с любым модом или будущим обновлением игры.
-
-| Группа / Group | Что заменяет / Replaces | С чем конфликтует / Conflicts with |
+| Группа | Можно вместе | Конфликт |
 | --- | --- | --- |
-| Лавка / Shop | Модель лавки; необязательные звуки / Shop model; optional audio | Другие лавки; основные варианты между собой / Other shops; other main shop variants |
-| Меню / Menu | Panorama/HUD магазина / Item shop interface | Другие темы этого экрана / Other item shop UI themes |
-| Банкомат / ATM | Sinner’s Sacrifice и его звуки / Model and sounds | Другие замены автомата / Other replacements of that machine |
-| Указатели / Signs | `phone_booth_01a` и собственные материалы / Carrier and own materials | Другие моды той же будки / Other replacements of that booth |
-| Такси / Taxi | `endgame_amber_newtruck02` и собственные материалы / Carrier and own materials | Haval, Hyundai, другие версии такси или грузовика / Other taxi variants or truck replacements |
+| Лавка Original Sounds | Остальные группы | Другие основные модели лавки |
+| Меню | Остальные группы | Другие темы меню предметов |
+| Указатели | Остальные группы | Другие замены phone_booth_01a |
+| ATM 1.1 | Остальные группы | ATM 1.0 и другие замены Sinner’s Sacrifice |
+| Purchase 1.3 | Ability 1.3, музыка, визуальные модули | Purchase_Ability и старые звуки покупки |
+| Ability 1.3 | Purchase 1.3, музыка, визуальные модули | Purchase_Ability, старые звуки способности, другие soundevents/ui.vsndevts_c |
+| Purchase_Ability 1.3 | Музыка, визуальные модули | Отдельные Purchase/Ability, старые звуковые варианты |
+| Музыка Extra_Music_Only | Остальные новые модули | Другие замены фоновой музыки лавки |
+| Машины | Остальные группы | Любой второй автомобильный ZIP |
 
-Варианты лавки `01–04` содержат одну и ту же модель и взаимно исключают друг друга. `Extra_Music_Only`, `Extra_Purchase_Only` и `Extra_Ability_Only` можно комбинировать между собой. Они пересекаются с теми основными вариантами, где уже есть соответствующий звук. Проще всего комбинировать их с `01_Original_Sounds`.
+Все 12 автомобильных вариантов пересекаются по models/props_endgame/endgame_amber_newtruck02.vmdl_c. Для сочетания такси, ДПС и Яшкино используйте один готовый ZIP из [таблицы](../README.md).
 
-Main shop variants `01–04` include the same model; enable only one. The three Extra sound files can be combined with each other, or with `01_Original_Sounds`. Do not duplicate a sound already included in your chosen main variant.
+Примеры:
 
-Старые тесты с полной картой, подогнанный Hyundai, Haval и тест скрытия такси **не входят в релиз**. Перед установкой рабочих указателей или классического такси отключите их. Карта целиком не подменяется.
+- Только Яшкино: yashkino_only_all_test_v0.4.zip.
+- Только ДПС: haval_dps_only_test_v0.2.zip.
+- Белые Haval и ДПС без грузовиков: haval_dps_white_test_v0.2.zip.
+- Весь транспорт с жёлтыми такси: haval_dps_trucks_yellow_test_v0.2.zip.
+- Полное оформление: лавка Original Sounds + HUD-меню + указатели + ATM 1.1 + один автомобильный ZIP + Purchase_Ability 1.3 + музыка по желанию.
 
-Old full-map tests, the fitted Hyundai, Haval and native taxi hiding diagnostics are **not release assets**. Disable them before using the released signs or classic taxi. No full map is replaced.
+Старые звуковые варианты лавки 02–04 и Extra покупки/способности выключите перед использованием аудио 1.3. Старые моды с полной картой, Hyundai и диагностикой скрытия такси в релиз не входят.
 
-Подробный список ожидаемых пересечений между звуковыми вариантами: [resource_conflicts.json](resource_conflicts.json).
+Проверка ресурсов не нашла пересечений между независимыми группами. Все ожидаемые пересечения перечислены в [resource_conflicts.json](resource_conflicts.json). Это проверка файлов, а не игровой тест каждой комбинации.

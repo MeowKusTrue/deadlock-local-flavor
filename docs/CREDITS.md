@@ -26,4 +26,8 @@ Some HUD backgrounds and sign illustrations also use AI. AI usage is not limited
 
 Game models and icons belong to Valve. Logos, trademarks, music and sound excerpts belong to their owners. Publishing this collection does not transfer third-party rights or imply official affiliation. There is no blanket open-source license covering all binary assets.
 
-Haval из стороннего GTA-проекта в публичные файлы этой коллекции не включён. / The third-party GTA Haval model is not included in this public collection.
+## Haval и Яшкино
+
+Исходная модель Haval: **YAKOVLEV, Great, Usap, KIPPER**. [Страница исходного GTA-мода](https://www.gtaall.com/gta-san-andreas/cars/272390-haval-jolion-police.html). Адаптация, материалы ДПС, номера, мигалка, размещение и сборка для Deadlock — MeowKusTrue. Полицейский декор обновлён в v0.2. Единой открытой лицензии на сторонние модели этим релизом не предоставляется.
+
+haval_white.png, haval_yellow.png, dps.png, dps_rear.png, yashkino.png, yashkino_rear.png, atm_v11.png — рендеры реальных моделей Blender. Изображения еды и реклама Яшкино созданы с помощью ИИ; геометрия панелей, UV, размещение и сборка подготовлены отдельно.
