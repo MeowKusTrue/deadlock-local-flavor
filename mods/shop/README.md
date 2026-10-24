@@ -1,11 +1,5 @@
-# Вкусно — и точка / Original sounds
+# Лавка «Вкусно — и точка»
 
-![Скриншот игры / In-game screenshot](../../assets/shop_ingame.png)
+Лавка «Вкусно — и точка», без замены звуков.
 
-Скриншот игры / In-game screenshot
-
-Только модель лавки. Звуки независимы. / Shop model only; audio is independent.
-
-[Vkusno_Shop_v1.2_01_Original_Sounds.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.2.0/Vkusno_Shop_v1.2_01_Original_Sounds.zip)
-
-[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)
+[Выбор архива и установка](../../README.md) · [Compatibility](../../docs/COMPATIBILITY.md)

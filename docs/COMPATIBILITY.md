@@ -1,31 +1,12 @@
-# Совместимость
+# Совместимость / Compatibility
 
-| Группа | Можно вместе | Конфликт |
-| --- | --- | --- |
-| Лавка Original Sounds | Остальные группы | Другие основные модели лавки |
-| Меню | Остальные группы | Другие темы меню предметов |
-| Указатели | Остальные группы | Другие замены phone_booth_01a |
-| ATM 1.3 | Остальные группы | старые ATM и другие замены Sinner’s Sacrifice |
-| Purchase 1.4 | Ability 1.4, музыка, визуальные модули | Purchase_Ability и старые звуки покупки |
-| Ability 1.4 | Purchase 1.4, музыка, визуальные модули | Purchase_Ability, старые звуки способности, другие soundevents/ui.vsndevts_c |
-| Purchase_Ability 1.4 | Музыка, визуальные модули | All_Sounds, отдельные Purchase/Ability, старые звуковые варианты |
-| Музыка 1.4 (Music) | Остальные новые модули | All_Sounds, другие замены фоновой музыки лавки |
-| Машины | Остальные группы | Любой второй автомобильный ZIP |
+- Один полный набор White или Yellow **вместо** всех отдельных модулей коллекции.
+- При установке по частям лавку, HUD, таблички и банкомат можно сочетать.
+- Автомобильный ZIP только один: одиночный вариант или готовое сочетание.
+- Звуки: All_Sounds **либо** Music + Purchase_Ability **либо** нужные одиночные Music/Purchase/Ability. Не дублируйте составляющие.
+- Перед обновлением отключите предыдущую версию того же мода. Старые варианты лавки со звуками 02/03/04 замените на Original Sounds и нужные новые звуковые модули.
+- Другие моды, меняющие те же машины, лавку, интерфейс, таблички, банкомат или звуки, могут конфликтовать. При проблеме оставьте одну замену для нужного объекта.
 
-Все 12 автомобильных вариантов пересекаются по models/props_endgame/endgame_amber_newtruck02.vmdl_c. Для сочетания такси, ДПС и Яшкино используйте один готовый ZIP из [таблицы](../README.md).
+Use one complete White/Yellow set OR individual modules. Individual visual modules can be combined; select one vehicle archive. Audio: All_Sounds OR Music + Purchase_Ability OR the individual sounds you want. Disable previous versions and other replacements of the same content.
 
-Примеры:
-
-- Только Яшкино: Yashkino_Trucks_v0.4.zip.
-- Только ДПС: Haval_DPS_Only_v0.2.zip.
-- Белые Haval и ДПС без грузовиков: Haval_DPS_Taxi_White_v0.2.zip.
-- Весь транспорт с жёлтыми такси: Haval_DPS_Yashkino_Taxi_Yellow_v0.2.zip.
-- Полное оформление: лавка Original Sounds + HUD-меню + указатели + ATM 1.3 + один автомобильный ZIP + Purchase_Ability 1.4 + музыка по желанию.
-
-Старые звуковые варианты лавки 02–04 и Extra покупки/способности выключите перед использованием аудио 1.4. Старые моды с полной картой, Hyundai и диагностикой скрытия такси в релиз не входят.
-
-Проверка ресурсов не нашла пересечений между независимыми группами. Все ожидаемые пересечения перечислены в [resource_conflicts.json](resource_conflicts.json). Это проверка файлов, а не игровой тест каждой комбинации.
-
-## Полные наборы и All Sounds
-
-Complete White/Yellow содержат все ресурсы коллекции: включайте один полный набор вместо отдельных модулей. All_Sounds содержит музыку, покупку и способность; не включайте его с Music/Purchase/Ability/Purchase_Ability. Для выбора по частям: Music+Purchase+Ability ИЛИ Music+Purchase_Ability ИЛИ All_Sounds.
+[Выбор файлов / Downloads](../README.md)

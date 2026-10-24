@@ -1,11 +1,5 @@
-# Яндекс Go — классическое такси / Classic taxi
+# Классическое такси
 
-![Рендер Blender / Blender render](../../assets/taxi.png)
+Окраска Яндекс Go для исходного такси Deadlock. Выбирается вместо остальных автомобильных вариантов.
 
-Рендер Blender / Blender render
-
-Классическое такси: исходная машина игры в окраске Яндекс Go. Конфликтует со всеми другими автомобильными ZIP. / Original in-game car with Yandex Go paint. Conflicts with all other vehicle ZIPs.
-
-[Yandex_Go_Classic_Taxi_v1.0.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.2.0/Yandex_Go_Classic_Taxi_v1.0.zip)
-
-[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)
+[Выбор архива и установка](../../README.md)
