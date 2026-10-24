@@ -1,5 +1,11 @@
-# shop
+# Вкусно — и точка / Original sounds
 
-Лавку выбирайте Original Sounds. Покупка, повышение способности и музыка теперь отдельные модули. Можно взять любой один, оба или ничего. Старые звуковые варианты не включайте вместе с новыми.
+![Скриншот игры / In-game screenshot](../../assets/shop_ingame.png)
 
-[Выбор и скачивание](../../README.md) · [Совместимость](../../docs/COMPATIBILITY.md)
+Скриншот игры / In-game screenshot
+
+Только модель лавки. Звуки независимы. / Shop model only; audio is independent.
+
+[Vkusno_Shop_v1.2_01_Original_Sounds.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.1.0/Vkusno_Shop_v1.2_01_Original_Sounds.zip)
+
+[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)

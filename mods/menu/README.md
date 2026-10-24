@@ -1,17 +1,11 @@
 # Вкусно — меню / Shop menu
 
-Версия / Version: **1.0**
+![Текстура из проекта, не игровой скриншот / Actual project texture, not an in-game screenshot](../../assets/menu_texture.png)
 
-![Preview](../../assets/menu.jpg)
+Текстура из проекта, не игровой скриншот / Actual project texture, not an in-game screenshot
 
-Обложка сделана с помощью ИИ и не является игровым скриншотом. / AI-assisted promotional cover, not a game screenshot.
+HUD покупки предметов. Предметы и цены рисуются игрой поверх этой текстуры. Свежего скриншота интерфейса пока нет. / Item-shop UI. The game draws items and prices over this texture; a current UI screenshot is not available.
 
-Меняет только оформление экрана покупки предметов. Модель лавки и звуки не входят.
+[Vkusno_Menu_Mod_v1.0.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.1.0/Vkusno_Menu_Mod_v1.0.zip)
 
-Only changes the item-shop interface. Shop model and audio are separate.
-
-## 📦 Скачать / Downloads
-
-- [Vkusno_Menu_Mod_v1.0.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.0.0/Vkusno_Menu_Mod_v1.0.zip) — Тёмно-зелёное меню предметов, рыжие ценники, светлые названия и «ЭНЕРГОС». Без звуков. / Dark green item shop, orange price badges, light item names and ЭНЕРГОС. No sound changes.
-
-[Установка / Installation](../../docs/INSTALL_RU.md) · [English](../../docs/INSTALL_EN.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)
+[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)

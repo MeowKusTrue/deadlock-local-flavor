@@ -16,7 +16,7 @@
       "size": 6693097,
       "image": "assets/shop.jpg",
       "descriptionRu": "Новая лавка; звуки игры без замен.",
-      "descriptionEn": "Новая лавка; звуки игры без замен.",
+      "descriptionEn": "Shop model only",
       "category": "Map Props",
       "resourcePaths": [
         "models/props_gameplay/shop/materials/shop_01_color_psd_307764a4.vtex_c",
@@ -32,7 +32,11 @@
         "particles/models/props_gameplay/shop/shop_01/shop_model_come_on_in_trace_fx_model.vsnap_c",
         "particles/models/props_gameplay/shop/shop_01/shop_model_triangle_sign_fx_model.vsnap_c",
         "particles/models/props_gameplay/shop/shop_01/shop_the_curiosity_shop_sign_fx_model.vsnap_c"
-      ]
+      ],
+      "previews": [
+        "assets/shop_ingame.png"
+      ],
+      "previewKind": "game_screenshot"
     },
     {
       "id": "audio_music",
@@ -46,12 +50,16 @@
       "size": 1590361,
       "image": "assets/shop.jpg",
       "descriptionRu": "Только девятисекундная фоновая петля лавки. Без модели.",
-      "descriptionEn": "Только девятисекундная фоновая петля лавки. Без модели.",
+      "descriptionEn": "Nine-second shop ambience only",
       "category": "Sounds",
       "resourcePaths": [
         "sounds/music/menu/curio_music.vsnd_c",
         "sounds/music/menu/curio_music_02.vsnd_c"
-      ]
+      ],
+      "previews": [
+        "assets/shop_music.wav"
+      ],
+      "previewKind": "audio"
     },
     {
       "id": "menu",
@@ -65,7 +73,7 @@
       "size": 27595254,
       "image": "assets/menu.jpg",
       "descriptionRu": "Тёмно-зелёное меню предметов, рыжие ценники, светлые названия и «ЭНЕРГОС». Без звуков.",
-      "descriptionEn": "Тёмно-зелёное меню предметов, рыжие ценники, светлые названия и «ЭНЕРГОС». Без звуков.",
+      "descriptionEn": "Item-shop interface only; no shop model",
       "category": "HUD",
       "resourcePaths": [
         "panorama/images/shop/card_backer_png.vtex_c",
@@ -146,7 +154,11 @@
         "panorama/styles/citadel_shop_mods_filtered.vcss_c",
         "panorama/styles/vkusno_item_labels.vcss_c",
         "panorama/styles/vkusno_price_badges.vcss_c"
-      ]
+      ],
+      "previews": [
+        "assets/menu_texture.png"
+      ],
+      "previewKind": "project_texture_not_game_screenshot"
     },
     {
       "id": "signs",
@@ -160,7 +172,7 @@
       "size": 4942165,
       "image": "assets/signs.png",
       "descriptionRu": "Малые меню и большой указатель у спусков к лавке. Без полной карты.",
-      "descriptionEn": "Малые меню и большой указатель у спусков к лавке. Без полной карты.",
+      "descriptionEn": "Entrance menu boards and signs; no HUD change",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_signcarrier01/large_menu.vmat_c",
@@ -176,7 +188,11 @@
         "materials/vk_signcarrier01/small_orders_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
         "materials/vk_signcarrier01/small_orders_vmat_g_tselfillummask_1542d280.vtex_c",
         "models/props_broadway/phone_booth_01a.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/signs.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "taxi",
@@ -190,14 +206,18 @@
       "size": 5460144,
       "image": "assets/taxi.png",
       "descriptionRu": "Окраска Яндекс Go на исходном игровом такси. Модель машины сохраняется.",
-      "descriptionEn": "Окраска Яндекс Go на исходном игровом такси. Модель машины сохраняется.",
+      "descriptionEn": "Яндекс Go — классическое такси / Classic taxi",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_taxicarrier01/taxi.vmat_c",
         "materials/vk_taxicarrier01/taxi_color_png_94bde01d.vtex_c",
         "materials/vk_taxicarrier01/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/taxi.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "audio_purchase",
@@ -211,7 +231,7 @@
       "size": 574394,
       "image": "assets/shop.jpg",
       "descriptionRu": "Только звук покупки, громкость +2,5 дБ. Работает без модели лавки.",
-      "descriptionEn": "Только звук покупки, громкость +2,5 дБ. Работает без модели лавки.",
+      "descriptionEn": "Purchase sound only",
       "category": "Sounds",
       "resourcePaths": [
         "sounds/ui/ui_shop_autobuy_01.vsnd_c",
@@ -222,7 +242,11 @@
         "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
         "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
         "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
-      ]
+      ],
+      "previews": [
+        "assets/purchase_v13.wav"
+      ],
+      "previewKind": "audio"
     },
     {
       "id": "audio_ability",
@@ -236,7 +260,7 @@
       "size": 244852,
       "image": "assets/shop.jpg",
       "descriptionRu": "Громкость +2,5 дБ. Джингл способности обрезан до 0,62 с и звучит с исходной скоростью.",
-      "descriptionEn": "Громкость +2,5 дБ. Джингл способности обрезан до 0,62 с и звучит с исходной скоростью.",
+      "descriptionEn": "Ability-upgrade sound only",
       "category": "Sounds",
       "resourcePaths": [
         "soundevents/ui.vsndevts_c",
@@ -244,7 +268,11 @@
         "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
         "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
         "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
-      ]
+      ],
+      "previews": [
+        "assets/ability_v13.wav"
+      ],
+      "previewKind": "audio"
     },
     {
       "id": "audio_purchase_ability",
@@ -258,7 +286,7 @@
       "size": 819150,
       "image": "assets/shop.jpg",
       "descriptionRu": "Громкость +2,5 дБ. Джингл способности обрезан до 0,62 с и звучит с исходной скоростью.",
-      "descriptionEn": "Громкость +2,5 дБ. Джингл способности обрезан до 0,62 с и звучит с исходной скоростью.",
+      "descriptionEn": "Purchase and ability sounds in one archive",
       "category": "Sounds",
       "resourcePaths": [
         "soundevents/ui.vsndevts_c",
@@ -274,7 +302,12 @@
         "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
         "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
         "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
-      ]
+      ],
+      "previews": [
+        "assets/purchase_v13.wav",
+        "assets/ability_v13.wav"
+      ],
+      "previewKind": "audio"
     },
     {
       "id": "atm",
@@ -288,7 +321,7 @@
       "size": 6118144,
       "image": "assets/atm_v11.png",
       "descriptionRu": "Светлый экран без белых полос, исправленный низ корпуса и сглаженные боковые панели. Новая сборка проверена офлайн.",
-      "descriptionEn": "Светлый экран без белых полос, исправленный низ корпуса и сглаженные боковые панели. Новая сборка проверена офлайн.",
+      "descriptionEn": "Soul ATM model, screen and sounds",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk/zb11_atm_color.vmat_c",
@@ -313,7 +346,11 @@
         "sounds/npc/neutrals/vaults/vault_hit_stinger_01.vsnd_c",
         "sounds/npc/neutrals/vaults/vault_payout.vsnd_c",
         "sounds/npc/neutrals/vaults/vault_payout_heavy.vsnd_c"
-      ]
+      ],
+      "previews": [
+        "assets/atm_v11.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "haval_white",
@@ -327,14 +364,19 @@
       "size": 32583199,
       "image": "assets/haval_white.png",
       "descriptionRu": "Пять Haval-такси, номер А777МР 777. Равномерный масштаб увеличен ещё на 2%.",
-      "descriptionEn": "Пять Haval-такси, номер А777МР 777. Равномерный масштаб увеличен ещё на 2%.",
+      "descriptionEn": "Белый Haval — такси",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_havalwhite04/taxi.vmat_c",
         "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
         "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/haval_white.png",
+        "assets/haval_white_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "haval_yellow",
@@ -348,14 +390,19 @@
       "size": 40670885,
       "image": "assets/haval_yellow.png",
       "descriptionRu": "Пять Haval-такси, номер А777МР 777. Равномерный масштаб увеличен ещё на 2%.",
-      "descriptionEn": "Пять Haval-такси, номер А777МР 777. Равномерный масштаб увеличен ещё на 2%.",
+      "descriptionEn": "Жёлтый Haval — такси",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_havalyellow03/taxi.vmat_c",
         "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
         "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/haval_yellow.png",
+        "assets/haval_yellow_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "trucks_only",
@@ -369,14 +416,19 @@
       "size": 11523913,
       "image": "assets/yashkino.png",
       "descriptionRu": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
-      "descriptionEn": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
+      "descriptionEn": "Яшкино — только грузовики",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_yashkino01/truck.vmat_c",
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "trucks_white",
@@ -390,7 +442,7 @@
       "size": 43664822,
       "image": "assets/yashkino.png",
       "descriptionRu": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
-      "descriptionEn": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
+      "descriptionEn": "Яшкино + белые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_havalwhite04/taxi.vmat_c",
@@ -400,7 +452,14 @@
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png",
+        "assets/haval_white.png",
+        "assets/haval_white_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "trucks_yellow",
@@ -414,7 +473,7 @@
       "size": 51752506,
       "image": "assets/yashkino.png",
       "descriptionRu": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
-      "descriptionEn": "Девять грузовиков с гладкими боковинами, оформление двенадцати створок задних дверей. Сборка проверена офлайн.",
+      "descriptionEn": "Яшкино + жёлтые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/vk_havalyellow03/taxi.vmat_c",
@@ -424,7 +483,14 @@
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png",
+        "assets/haval_yellow.png",
+        "assets/haval_yellow_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_only",
@@ -438,7 +504,7 @@
       "size": 21895098,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "Только ДПС",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -446,7 +512,12 @@
         "materials/vk_havaldps02/dps.vmat_c",
         "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_trucks",
@@ -460,7 +531,7 @@
       "size": 32976738,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "ДПС + Яшкино",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -471,7 +542,14 @@
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png",
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_trucks_white",
@@ -485,7 +563,7 @@
       "size": 65117679,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "ДПС + Яшкино + белые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -499,7 +577,16 @@
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png",
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png",
+        "assets/haval_white.png",
+        "assets/haval_white_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_trucks_yellow",
@@ -513,7 +600,7 @@
       "size": 73205363,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "ДПС + Яшкино + жёлтые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -527,7 +614,16 @@
         "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
         "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png",
+        "assets/yashkino.png",
+        "assets/yashkino_rear.png",
+        "assets/haval_yellow.png",
+        "assets/haval_yellow_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_white",
@@ -541,7 +637,7 @@
       "size": 54036039,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "ДПС + белые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -552,7 +648,14 @@
         "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
         "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png",
+        "assets/haval_white.png",
+        "assets/haval_white_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     },
     {
       "id": "dps_yellow",
@@ -566,7 +669,7 @@
       "size": 62123723,
       "image": "assets/dps.png",
       "descriptionRu": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
-      "descriptionEn": "Haval ДПС с округлой LED-мигалкой, чёткими надписями и синим номером А777МР 777. Точное сочетание указано в названии. Проверено офлайн; игровой тест новой сборки не выполнен.",
+      "descriptionEn": "ДПС + жёлтые Haval",
       "category": "Map Props",
       "resourcePaths": [
         "materials/default/default_mask_tga_344101f8.vtex_c",
@@ -577,7 +680,14 @@
         "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
         "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
         "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-      ]
+      ],
+      "previews": [
+        "assets/dps.png",
+        "assets/dps_rear.png",
+        "assets/haval_yellow.png",
+        "assets/haval_yellow_rear.png"
+      ],
+      "previewKind": "blender_component_renders"
     }
   ]
 }
