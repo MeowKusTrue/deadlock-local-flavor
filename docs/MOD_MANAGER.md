@@ -2,11 +2,11 @@
 
 ## Готовые карточки
 
-1. Скачайте `Deadlock_Local_Flavor_DMM_Import_v1.1.0.zip` из [Releases](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/latest).
+1. Скачайте `Deadlock_Local_Flavor_DMM_Import_v1.2.0.zip` из [Releases](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/latest).
 2. Распакуйте архив целиком. Оставьте `mod-interchange.json` рядом с папками `files` и `assets`.
 3. Закройте Deadlock. В библиотеке DMM откройте меню **Add mods → Open export file…** и выберите этот JSON. В локализованной версии ищите импорт из других мод-менеджеров и открытие файла экспорта.
 4. Проверьте список. Можно импортировать всю библиотеку или выбрать нужные строки.
-5. После импорта включите нужные моды. Все записи в пакете изначально выключены: одновременно включайте один автомобильный вариант; объединённые звуки не дублируйте отдельными.
+5. После импорта включите нужные моды. Все записи в пакете изначально выключены: одновременно включайте один полный набор ИЛИ независимые модули; один автомобильный вариант; объединённые звуки не дублируйте отдельными.
 
 Названия, автор, описания и ссылки на обложки заданы в JSON. Обложки лежат и в архиве для просмотра, но DMM получает их по HTTPS из этого репозитория. Для первого отображения картинок нужен интернет. Файлы модов уже внутри пакета; GameBanana для их скачивания не нужен.
 
@@ -18,7 +18,7 @@
 
 ## English
 
-Download and fully extract `Deadlock_Local_Flavor_DMM_Import_v1.1.0.zip`. Keep `mod-interchange.json`, `files` and `assets` together. Close Deadlock and open the JSON through **Mods Library → Add mods → Open export file…**. Review and import the entries you want. They start disabled; enable only your chosen main shop variant.
+Download and fully extract `Deadlock_Local_Flavor_DMM_Import_v1.2.0.zip`. Keep `mod-interchange.json`, `files` and `assets` together. Close Deadlock and open the JSON through **Mods Library → Add mods → Open export file…**. Review and import the entries you want. They start disabled; enable only your chosen main shop variant.
 
 Names, author, descriptions and HTTPS cover URLs are included. Images are also bundled for viewing, but DMM loads its card covers online from this repository. Mod binaries are bundled locally and do not require GameBanana. For a single mod, importing its normal ZIP with Add Local Mod remains available. Do not import the entire interchange ZIP as a single local mod.
 

@@ -5,7 +5,7 @@
 1. Close Deadlock.
 2. Download a ZIP from the **Assets** section of [Releases](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/latest).
 3. Open **Mods Library → Add Local Mod** and select the ZIP. Normal installation archives do not need extracting.
-4. Add the mod, select its VPK and enable it. Enable only one vehicle ZIP. Use the Original Sounds shop with audio 1.3; choose either Purchase_Ability or the separate Purchase and Ability files, without duplication.
+4. Use one complete White/Yellow set OR separate modules. Separate visual modules can be combined; select one vehicle ZIP. For audio choose All_Sounds OR Music + Purchase_Ability OR your chosen individual Music/Purchase/Ability files. Never duplicate bundle contents.
 5. Disable older versions and other replacements for the same asset, then start the game.
 
 For ready-made names and cover images, use the [card import bundle](MOD_MANAGER.md).

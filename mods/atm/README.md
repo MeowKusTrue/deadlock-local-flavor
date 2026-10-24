@@ -1,11 +1,9 @@
-# ZБЕР — банкомат душ
+# ZБЕР1.3
 
-![Рендер Blender / Blender render](../../assets/atm_v11.png)
+Экран светлее, белая вставка под ним и правый сканер убраны. В1.3 исправлена регрессия рамки: world-to-local координаты и нормали фронтальных граней. Геометрия, экспорт, CRC и зависимости проверены. Именно новая рамка ещё не подтверждена в игре.
 
-Рендер Blender / Blender render
+![Банкомат: предыдущий рендер1.1](../../assets/atm_v13_cpu.png)
 
-ATM 1.1: светлее экран, исправлены белые полосы, низ и боковины. / Brighter screen, fixed white strips, lower body and side panels.
+Иллюстрация показывает прежнюю геометрию1.1; рамка текущего архива обновлена. При обновлении выключить старый ATM.
 
-[Zber_ATM_Mod_v1.1.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.1.0/Zber_ATM_Mod_v1.1.zip)
-
-[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)
+[Выбор и установка](../../README.md)

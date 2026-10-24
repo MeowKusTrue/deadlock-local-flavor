@@ -1,79 +1,954 @@
 [
   {
-    "a": "taxi",
-    "b": "haval_white",
+    "a": "complete_white",
+    "b": "complete_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk/zb13_atm_screen_gif.vmat_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tnormalroughness_507b8baa.vtex_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk/zb13_screen_gif_sheet_png_5ac1bb4b.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_signcarrier01/large_menu.vmat_c",
+      "materials/vk_signcarrier01/large_menu_png_b8407a26.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_hot.vmat_c",
+      "materials/vk_signcarrier01/small_hot_png_90ae9469.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_orders.vmat_c",
+      "materials/vk_signcarrier01/small_orders_png_19b737fc.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_hot.vmat_c",
+      "materials/vk_signs11/lower_hot_png_ee38e60e.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_snacks.vmat_c",
+      "materials/vk_signs11/lower_snacks_png_59d2afad.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_broadway/phone_booth_01a.vmdl_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c",
+      "models/props_gameplay/shop/materials/shop_01_color_psd_307764a4.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_mask_psd_ad830944.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_normal_psd_8febf0c7.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_color_psd_eb224df8.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_normal_psd_ad0d6f40.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_color_psd_4127b05b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_mask_psd_93e9b77b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_normal_psd_bf12754e.vtex_c",
+      "models/props_gameplay/shop/shop_01.vmdl_c",
+      "models/props_gameplay/shop/shop_platform.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_color_psd_f9bd241e.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_emmisive_mask_psd_ed22d493.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_color_tga_5e827b7a.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_emmisive_mask_tga_1a77c7fe.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_normal_tga_a0d21fb.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece1.vmdl_c",
+      "panorama/images/shop/card_backer_png.vtex_c",
+      "panorama/images/shop/card_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_imbue_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_draft_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_builds_header_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_filter_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_generic_bg2_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_popular_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_edge_overlay_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_all_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_recommendations_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_shape_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_spirit_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_vitality_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_weapon_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_top_recommendations_header_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_corrupted_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/filter_nav_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_catalog_backer_nav_page_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_filtered_tree_header_full_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_defense_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_disruption_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_magic_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_misc_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_mobility_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_physical_psd.vtex_c",
+      "panorama/images/shop/catalog/price_currency_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_legendary_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_normal_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_rare_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier1_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier2_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier3_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier4_psd.vtex_c",
+      "panorama/images/shop/catalog/sticker_discount_psd.vtex_c",
+      "panorama/images/shop/catalog/text_images/upgrade/sticker_upgrade_russian_png.vtex_c",
+      "panorama/images/shop/shop_logo_psd.vtex_c",
+      "panorama/images/shop/shop_logo_ui_psd.vtex_c",
+      "panorama/layout/citadel_shop_mod_view.vxml_c",
+      "panorama/layout/citadel_shop_mods_filtered.vxml_c",
+      "panorama/styles/base/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/base/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/base/vkusno_item_labels.vcss_c",
+      "panorama/styles/base/vkusno_price_badges.vcss_c",
+      "panorama/styles/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/vkusno_item_labels.vcss_c",
+      "panorama/styles/vkusno_price_badges.vcss_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_come_on_in_trace_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_triangle_sign_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_the_curiosity_shop_sign_fx_model.vsnap_c",
+      "soundevents/ui.vsndevts_c",
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_02.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_03.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_hit_stinger_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout_heavy.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "audio_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "audio_all_sounds",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "audio_music",
+    "paths": [
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "audio_purchase",
+    "paths": [
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "audio_purchase_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_only",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_trucks_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "taxi",
     "paths": [
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
+    "a": "complete_white",
+    "b": "haval_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
     "b": "haval_yellow",
     "paths": [
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
-    "b": "trucks_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "taxi",
+    "a": "complete_white",
     "b": "trucks_white",
     "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
+    "a": "complete_white",
     "b": "trucks_yellow",
     "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
+    "a": "complete_white",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "menu",
+    "paths": [
+      "panorama/images/shop/card_backer_png.vtex_c",
+      "panorama/images/shop/card_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_imbue_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_draft_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_builds_header_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_filter_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_generic_bg2_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_popular_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_edge_overlay_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_all_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_recommendations_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_shape_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_spirit_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_vitality_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_weapon_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_top_recommendations_header_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_corrupted_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/filter_nav_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_catalog_backer_nav_page_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_filtered_tree_header_full_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_defense_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_disruption_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_magic_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_misc_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_mobility_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_physical_psd.vtex_c",
+      "panorama/images/shop/catalog/price_currency_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_legendary_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_normal_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_rare_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier1_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier2_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier3_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier4_psd.vtex_c",
+      "panorama/images/shop/catalog/sticker_discount_psd.vtex_c",
+      "panorama/images/shop/catalog/text_images/upgrade/sticker_upgrade_russian_png.vtex_c",
+      "panorama/images/shop/shop_logo_psd.vtex_c",
+      "panorama/images/shop/shop_logo_ui_psd.vtex_c",
+      "panorama/layout/citadel_shop_mod_view.vxml_c",
+      "panorama/layout/citadel_shop_mods_filtered.vxml_c",
+      "panorama/styles/base/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/base/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/base/vkusno_item_labels.vcss_c",
+      "panorama/styles/base/vkusno_price_badges.vcss_c",
+      "panorama/styles/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/vkusno_item_labels.vcss_c",
+      "panorama/styles/vkusno_price_badges.vcss_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "shop_original",
+    "paths": [
+      "models/props_gameplay/shop/materials/shop_01_color_psd_307764a4.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_mask_psd_ad830944.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_normal_psd_8febf0c7.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_color_psd_eb224df8.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_normal_psd_ad0d6f40.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_color_psd_4127b05b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_mask_psd_93e9b77b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_normal_psd_bf12754e.vtex_c",
+      "models/props_gameplay/shop/shop_01.vmdl_c",
+      "models/props_gameplay/shop/shop_platform.vmdl_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_come_on_in_trace_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_triangle_sign_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_the_curiosity_shop_sign_fx_model.vsnap_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "signs",
+    "paths": [
+      "materials/vk_signcarrier01/large_menu.vmat_c",
+      "materials/vk_signcarrier01/large_menu_png_b8407a26.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_hot.vmat_c",
+      "materials/vk_signcarrier01/small_hot_png_90ae9469.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_orders.vmat_c",
+      "materials/vk_signcarrier01/small_orders_png_19b737fc.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_hot.vmat_c",
+      "materials/vk_signs11/lower_hot_png_ee38e60e.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_snacks.vmat_c",
+      "materials/vk_signs11/lower_snacks_png_59d2afad.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tselfillummask_1542d280.vtex_c",
+      "models/props_broadway/phone_booth_01a.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_white",
+    "b": "atm",
+    "paths": [
+      "materials/vk/zb13_atm_screen_gif.vmat_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tnormalroughness_507b8baa.vtex_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk/zb13_screen_gif_sheet_png_5ac1bb4b.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_color_psd_f9bd241e.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_emmisive_mask_psd_ed22d493.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_color_tga_5e827b7a.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_emmisive_mask_tga_1a77c7fe.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_normal_tga_a0d21fb.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece1.vmdl_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_02.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_03.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_hit_stinger_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout_heavy.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "audio_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "audio_all_sounds",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "audio_music",
+    "paths": [
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "audio_purchase",
+    "paths": [
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "audio_purchase_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
     "b": "dps_only",
     "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
-    "b": "dps_trucks",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "taxi",
-    "b": "dps_trucks_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "taxi",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "taxi",
+    "a": "complete_yellow",
     "b": "dps_white",
     "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "taxi",
+    "a": "complete_yellow",
     "b": "dps_yellow",
     "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "dps_trucks_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "haval_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "menu",
+    "paths": [
+      "panorama/images/shop/card_backer_png.vtex_c",
+      "panorama/images/shop/card_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_imbue_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_spirit_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_vitality_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t1_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t2_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t3_psd.vtex_c",
+      "panorama/images/shop/catalog/cards/card_backer_weapon_t4_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_draft_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_bg_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_builds_header_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_filter_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_generic_bg2_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_popular_bg_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_builds_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_edge_overlay_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_all_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_builds_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_recommendations_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_icon_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_shape_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_spirit_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_vitality_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_tab_weapon_sm_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_shop_top_recommendations_header_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_bg_modifies_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_corrupted_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_spirit_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_vitality_psd.vtex_c",
+      "panorama/images/shop/catalog/catalog_tooltip_modifies_header_weapon_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/filter_nav_backer_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_catalog_backer_nav_page_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/shop_filtered_tree_header_full_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_defense_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_disruption_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_magic_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_misc_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_mobility_psd.vtex_c",
+      "panorama/images/shop/catalog/filters/sigil_physical_psd.vtex_c",
+      "panorama/images/shop/catalog/price_currency_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_legendary_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_normal_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_rare_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier1_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier2_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier3_psd.vtex_c",
+      "panorama/images/shop/catalog/pricetag_tier4_psd.vtex_c",
+      "panorama/images/shop/catalog/sticker_discount_psd.vtex_c",
+      "panorama/images/shop/catalog/text_images/upgrade/sticker_upgrade_russian_png.vtex_c",
+      "panorama/images/shop/shop_logo_psd.vtex_c",
+      "panorama/images/shop/shop_logo_ui_psd.vtex_c",
+      "panorama/layout/citadel_shop_mod_view.vxml_c",
+      "panorama/layout/citadel_shop_mods_filtered.vxml_c",
+      "panorama/styles/base/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/base/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/base/vkusno_item_labels.vcss_c",
+      "panorama/styles/base/vkusno_price_badges.vcss_c",
+      "panorama/styles/citadel_shop_mod_view.vcss_c",
+      "panorama/styles/citadel_shop_mods_filtered.vcss_c",
+      "panorama/styles/vkusno_item_labels.vcss_c",
+      "panorama/styles/vkusno_price_badges.vcss_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "shop_original",
+    "paths": [
+      "models/props_gameplay/shop/materials/shop_01_color_psd_307764a4.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_mask_psd_ad830944.vtex_c",
+      "models/props_gameplay/shop/materials/shop_01_normal_psd_8febf0c7.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_color_psd_eb224df8.vtex_c",
+      "models/props_gameplay/shop/materials/shop_platform_normal_psd_ad0d6f40.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_color_psd_4127b05b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_mask_psd_93e9b77b.vtex_c",
+      "models/props_gameplay/shop/materials/shop_signs_01_normal_psd_bf12754e.vtex_c",
+      "models/props_gameplay/shop/shop_01.vmdl_c",
+      "models/props_gameplay/shop/shop_platform.vmdl_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_come_on_in_trace_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_model_triangle_sign_fx_model.vsnap_c",
+      "particles/models/props_gameplay/shop/shop_01/shop_the_curiosity_shop_sign_fx_model.vsnap_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "signs",
+    "paths": [
+      "materials/vk_signcarrier01/large_menu.vmat_c",
+      "materials/vk_signcarrier01/large_menu_png_b8407a26.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/large_menu_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_hot.vmat_c",
+      "materials/vk_signcarrier01/small_hot_png_90ae9469.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signcarrier01/small_orders.vmat_c",
+      "materials/vk_signcarrier01/small_orders_png_19b737fc.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signcarrier01/small_orders_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_hot.vmat_c",
+      "materials/vk_signs11/lower_hot_png_ee38e60e.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_hot_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk_signs11/lower_snacks.vmat_c",
+      "materials/vk_signs11/lower_snacks_png_59d2afad.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tnormalroughness_b8ed6ff3.vtex_c",
+      "materials/vk_signs11/lower_snacks_vmat_g_tselfillummask_1542d280.vtex_c",
+      "models/props_broadway/phone_booth_01a.vmdl_c"
+    ]
+  },
+  {
+    "a": "complete_yellow",
+    "b": "atm",
+    "paths": [
+      "materials/vk/zb13_atm_screen_gif.vmat_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tnormalroughness_507b8baa.vtex_c",
+      "materials/vk/zb13_atm_screen_gif_vmat_g_tselfillummask_1542d280.vtex_c",
+      "materials/vk/zb13_screen_gif_sheet_png_5ac1bb4b.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_color_psd_f9bd241e.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/reel_emmisive_mask_psd_ed22d493.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_color_tga_5e827b7a.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_emmisive_mask_tga_1a77c7fe.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/materials/sinners_sacrifice_normal_tga_a0d21fb.vtex_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece.vmdl_c",
+      "models/props_gameplay/sinners_sacrifice_vault/sinners_sacrifice/piece1.vmdl_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_02.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_destroy_03.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_hit_stinger_01.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout.vsnd_c",
+      "sounds/npc/neutrals/vaults/vault_payout_heavy.vsnd_c"
+    ]
+  },
+  {
+    "a": "audio_ability",
+    "b": "audio_all_sounds",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "audio_ability",
+    "b": "audio_purchase_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "audio_all_sounds",
+    "b": "audio_music",
+    "paths": [
+      "sounds/music/menu/curio_music.vsnd_c",
+      "sounds/music/menu/curio_music_02.vsnd_c"
+    ]
+  },
+  {
+    "a": "audio_all_sounds",
+    "b": "audio_purchase",
+    "paths": [
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
+    ]
+  },
+  {
+    "a": "audio_all_sounds",
+    "b": "audio_purchase_ability",
+    "paths": [
+      "soundevents/ui.vsndevts_c",
+      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
+      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c",
+      "sounds/ui/ui_shop_autobuy_01.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_spirit.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_vitality.vsnd_c",
+      "sounds/ui/ui_shop_mod_purchase_t4_weapon.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_01.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_02.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_03.vsnd_c",
+      "sounds/ui/ui_shop_purchase_item_notify_04.vsnd_c"
     ]
   },
   {
@@ -91,528 +966,99 @@
     ]
   },
   {
-    "a": "audio_ability",
-    "b": "audio_purchase_ability",
+    "a": "dps_only",
+    "b": "dps_white",
     "paths": [
-      "soundevents/ui.vsndevts_c",
-      "sounds/ui/ui_hud_upgrade_ability_01.vsnd_c",
-      "sounds/ui/ui_hud_upgrade_ability_02.vsnd_c",
-      "sounds/ui/ui_hud_upgrade_ability_03.vsnd_c",
-      "sounds/ui/ui_hud_upgrade_ability_04.vsnd_c"
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "haval_white",
+    "a": "dps_only",
+    "b": "dps_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "dps_trucks_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
     "b": "haval_yellow",
     "paths": [
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
   {
-    "a": "haval_white",
+    "a": "dps_only",
+    "b": "trucks_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
+    "b": "trucks_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_only",
     "b": "trucks_only",
     "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "trucks_white",
-    "paths": [
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "trucks_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_trucks",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_white",
-    "paths": [
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_white",
-    "b": "dps_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "trucks_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "trucks_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "trucks_yellow",
-    "paths": [
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_trucks",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_trucks_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "haval_yellow",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "trucks_white",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "trucks_yellow",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_trucks",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_only",
-    "b": "dps_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "trucks_yellow",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_trucks",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_white",
-    "paths": [
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_white",
-    "b": "dps_yellow",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_only",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_trucks",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_white",
-    "paths": [
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "trucks_yellow",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_only",
-    "b": "dps_trucks",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_only",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_only",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_only",
-    "b": "dps_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_only",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks",
-    "b": "dps_trucks_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks",
-    "b": "dps_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks_white",
-    "b": "dps_trucks_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_yashkino01/truck.vmat_c",
-      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
-      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks_white",
-    "b": "dps_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_havalwhite04/taxi.vmat_c",
-      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
-      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks_white",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks_yellow",
-    "b": "dps_white",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
-    ]
-  },
-  {
-    "a": "dps_trucks_yellow",
-    "b": "dps_yellow",
-    "paths": [
-      "materials/default/default_mask_tga_344101f8.vtex_c",
-      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
-      "materials/vk_havaldps02/dps.vmat_c",
-      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
-      "materials/vk_havalyellow03/taxi.vmat_c",
-      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
-      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   },
@@ -624,6 +1070,501 @@
       "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
       "materials/vk_havaldps02/dps.vmat_c",
       "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "dps_trucks_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "haval_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "haval_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "trucks_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_white",
+    "b": "trucks_only",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "dps_trucks_white",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "haval_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "trucks_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_yellow",
+    "b": "trucks_only",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "dps_trucks_yellow",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "haval_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "haval_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_white",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "dps_trucks",
+    "paths": [
+      "materials/default/default_mask_tga_344101f8.vtex_c",
+      "materials/vk_havaldps02/color_png_a31a21fb.vtex_c",
+      "materials/vk_havaldps02/dps.vmat_c",
+      "materials/vk_havaldps02/dps_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "haval_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks_yellow",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "taxi",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "haval_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "dps_trucks",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "taxi",
+    "b": "haval_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "taxi",
+    "b": "haval_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "taxi",
+    "b": "trucks_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "taxi",
+    "b": "trucks_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "taxi",
+    "b": "trucks_only",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_white",
+    "b": "haval_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_white",
+    "b": "trucks_white",
+    "paths": [
+      "materials/vk_havalwhite04/taxi.vmat_c",
+      "materials/vk_havalwhite04/taxi_color_png_1708a19f.vtex_c",
+      "materials/vk_havalwhite04/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_white",
+    "b": "trucks_yellow",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_white",
+    "b": "trucks_only",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_yellow",
+    "b": "trucks_white",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_yellow",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_havalyellow03/taxi.vmat_c",
+      "materials/vk_havalyellow03/taxi_color_png_8acb400e.vtex_c",
+      "materials/vk_havalyellow03/taxi_vmat_g_tnormalroughness_37fc6a7b.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "haval_yellow",
+    "b": "trucks_only",
+    "paths": [
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "trucks_white",
+    "b": "trucks_yellow",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "trucks_white",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
+      "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
+    ]
+  },
+  {
+    "a": "trucks_yellow",
+    "b": "trucks_only",
+    "paths": [
+      "materials/vk_yashkino01/truck.vmat_c",
+      "materials/vk_yashkino01/truck_atlas_png_8e95b424.vtex_c",
+      "materials/vk_yashkino01/truck_vmat_g_tnormalroughness_3b4acb9c.vtex_c",
       "models/props_endgame/endgame_amber_newtruck02.vmdl_c"
     ]
   }

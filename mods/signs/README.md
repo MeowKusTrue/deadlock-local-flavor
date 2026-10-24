@@ -1,11 +1,10 @@
-# Вкусно — указатели и меню / Entrance signs
+# Меню и указатели1.2
 
-![Рендер Blender; оформление меню использует ИИ / Blender render; menu artwork uses AI](../../assets/signs.png)
+16 поверхностей: прежние верхние и нижние меню сохранены, обе стороны последнего высокого TO SHOP у противоположной лавки добавлены.
 
-Рендер Blender; оформление меню использует ИИ / Blender render; menu artwork uses AI
+![Нижний вход](../../assets/signs_lower.png)
+![Противоположный вход](../../assets/signs_opposite.png)
 
-Физические меню и указатели у входов. Дополнительное нижнее меню пока не входит в релиз. / Physical entrance boards; additional lower-basement menu is not included yet.
+CPU-проекции геометрии, не игровые снимки. Пакет заменяет прежнюю версию signs; не включать обе. Карту и worldnode не заменяет.
 
-[Vkusno_Signs_v1.0.zip](https://github.com/MeowKusTrue/deadlock-local-flavor/releases/download/v1.1.0/Vkusno_Signs_v1.0.zip)
-
-[Выбор / Selection](../../README.md) · [English](../../README.en.md) · [Совместимость / Compatibility](../../docs/COMPATIBILITY.md)
+[Выбор и установка](../../README.md)
